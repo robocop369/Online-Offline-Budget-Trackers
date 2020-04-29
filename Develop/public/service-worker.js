@@ -7,7 +7,7 @@ const FILES_TO_CACHE = [
     "/db.js",
     "/styles.css"];
 
-    const CACHE_NAME = 'static-cache-v39';
+    const CACHE_NAME = 'data-cache-v3';
     const DATA_CACHE_NAME = 'data-cache-v9';
 
     //Install service worker
