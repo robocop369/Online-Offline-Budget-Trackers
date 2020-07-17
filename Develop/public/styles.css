@@ -14,7 +14,7 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 2px solid #dddddd;
   text-align: left;
   padding: 10px;
   background-color: blue;
