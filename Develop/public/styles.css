@@ -21,7 +21,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #d2ccf1;
 }
 
 .error {
